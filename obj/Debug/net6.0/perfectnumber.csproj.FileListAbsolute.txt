@@ -1,0 +1,15 @@
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.exe
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.deps.json
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.runtimeconfig.json
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.dll
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.pdb
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.csproj.AssemblyReference.cache
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.AssemblyInfoInputs.cache
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.AssemblyInfo.cs
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.csproj.CoreCompileInputs.cache
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.dll
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\refint\perfectnumber.dll
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.pdb
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.genruntimeconfig.cache
+C:\Users\nivee\source\repos\perfectnumber\perfectnumber\obj\Debug\net6.0\ref\perfectnumber.dll
